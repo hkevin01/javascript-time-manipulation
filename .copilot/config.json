@@ -1,0 +1,6 @@
+{
+  "suggestionBehavior": "default",
+  "enableChat": true,
+  "preferredLanguages": ["javascript"],
+  "excludePaths": ["node_modules", "dist", "build"]
+}
