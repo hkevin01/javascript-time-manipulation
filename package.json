@@ -1,0 +1,17 @@
+{
+  "name": "javascript-time-manipulation",
+  "version": "0.1.0",
+  "description": "Utilities for manipulating and converting date and time values in JavaScript.",
+  "main": "src/parse_date.js",
+  "scripts": {
+    "test": "echo \"No test specified yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkevin01/javascript-time-manipulation.git"
+  },
+  "author": "hkevin01",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
