@@ -6,8 +6,8 @@
 function parseDate(date){
 	//2016-09-30 16:18:22
 	var year = date.substring(0,4);
-	
-	var month = date.substring(5, 7);  month = month - 1; 
+
+	var month = date.substring(5, 7);  month = month - 1;
 	var day = date.substring(8,10);
 	var hours = date.substring(11,13);
 	var minutes = date.substring(14,16);
